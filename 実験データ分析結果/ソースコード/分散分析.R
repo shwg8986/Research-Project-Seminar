@@ -509,17 +509,3 @@ hkB;mcB # 主効果Ｂの平均と多重比較の調整後ｐ値
 hkC;mcC # 主効果Ｃの平均と多重比較の調整後ｐ値
 
 cat(txt) # 結果の書き方
-
-# ■オプション：［↑］⇒行頭の♯を消す⇒［Enter］
-# txD  # Median,歪度,尖度,SEなど
-# ty2  # TypeⅡ_SS
-# round(Bmat,3) # 要因Ｂの相関行列
-# round(Cmat,3) # 要因Ｃの相関行列
-# round(Tmat,3) # 要因Ｂ・Ｃの相関行列
-# plSD # 主効果ＡのプールドSD
-# TesA(水準=1, 相手=2 ) # 主効果Aの２水準ｔ検定
-# TesB(水準=1, 相手=2 ) # 主効果Bの２水準ｔ検定
-# TesC(水準=1, 相手=2 ) # 主効果Cの２水準ｔ検定
-# write(txt,file.choose(),ap=T) # 結果のファイル保存
-
-# _/_/_/ Powered by js-STAR _/_/_/
