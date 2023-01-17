@@ -521,5 +521,3 @@ cat(txt) # 結果の書き方
 # TesB(水準=1, 相手=2 ) # 主効果Bの２水準ｔ検定
 # TesC(水準=1, 相手=2 ) # 主効果Cの２水準ｔ検定
 # write(txt,file.choose(),ap=T) # 結果のファイル保存
-
-# _/_/_/ Powered by js-STAR _/_/_/
